@@ -1,2 +1,33 @@
-# Banking-Management-System-SQL
-A Banking Management System built using MySQL and phpMyAdmin. The project demonstrates database design, table relationships, SQL joins, transaction tracking, and reporting.
+# Banking Management System
+
+## Overview
+A Banking Management System developed using MySQL and phpMyAdmin (XAMPP).
+
+## Features
+- Customer Management
+- Account Management
+- Transaction Tracking
+- SQL Reporting
+
+## Database Tables
+- Customers
+- Accounts
+- Transactions
+
+## SQL Concepts Used
+- Primary Keys
+- Foreign Keys
+- JOINs
+- WHERE
+- ORDER BY
+- GROUP BY
+- Aggregate Functions
+
+## Tools Used
+- MySQL
+- phpMyAdmin
+- XAMPP
+- GitHub
+
+## Author
+Aakriti Yadav
